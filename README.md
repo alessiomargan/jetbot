@@ -2,7 +2,7 @@
 
 <!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
 
-> Interested in making projects like this with Jetson Nano?  Check out our upcoming [webinar](https://info.nvidia.com/ai-for-makers-learn-with-jetbot-reg-page.html?nvid=nv-int-84114)!  
+> Looking for a quick way to get started with JetBot?  Many third party kits are [now available](https://jetbot.org/master/third_party_kits.html)!
 
 <img src="../..//wiki/images/jetson-jetbot-illustration_1600x1260.png" height="256">
 
@@ -14,7 +14,6 @@ JetBot is an open-source robot based on NVIDIA Jetson Nano that is
 
 Building and using JetBot gives the hands on experience needed to create entirely new AI projects.
 
-To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/wiki).
+To get started, read the [JetBot documentation](https://jetbot.org).
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/README?pixel)](https://github.com/igrigorik/ga-beacon)
